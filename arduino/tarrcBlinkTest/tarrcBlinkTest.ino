@@ -2,7 +2,6 @@
   MIT License 2019
   ---
   TARRC Robot
-  Class #1
   Program purpose: LED Blink test
   ---
   @author: Krzysztof Stezala

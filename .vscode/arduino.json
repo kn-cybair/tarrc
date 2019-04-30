@@ -1,6 +1,6 @@
 {
     "programmer": "AVRISP mkII",
     "board": "arduino:avr:uno",
-    "port": "COM9",
-    "sketch": "arduino\\tarrcBlinkTest\\tarrcBlinkTest.ino"
+    "port": "COM8",
+    "sketch": "arduino\\tarrcBluetoothTest\\tarrcBluetoothTest.ino"
 }
